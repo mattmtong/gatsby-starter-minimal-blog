@@ -33,12 +33,12 @@ module.exports = {
         ],
         externalLinks: [
           {
-            name: `Twitter`,
-            url: `https://twitter.com/lekoarts_de`,
+            name: `YouTube`,
+            url: `https://www.youtube.com/channel/UCdp6Se8HmfFpeyRLTm9ll1A`,
           },
           {
-            name: `Homepage`,
-            url: `https://www.lekoarts.de?utm_source=minimal-blog&utm_medium=Starter`,
+            name: `Instagram`,
+            url: `https://www.instagram.com/mattsouptong/`,
           },
         ],
       },
